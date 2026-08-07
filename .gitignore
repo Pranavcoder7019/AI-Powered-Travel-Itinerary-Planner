@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+instance/
+.python-version
+.env
+.env.*
+
+# Project-specific paths
+travel planning 2/__pycache__/
+travel planning 2/.venv/
+travel planning 2/.env
+travel planning 2/.env.*
